@@ -1,2 +1,2 @@
-# product-management-portfolio
-Product Management portfolio showcasing case studies, roadmaps, and process documentation from 10+ projects.
+# product-management-projects
+Product Management- case studies, roadmaps, and process documentation from 10+ projects.
